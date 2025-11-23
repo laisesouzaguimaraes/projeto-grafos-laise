@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Disciplinas PPC</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Disciplinas PPC</h1>
+    <p>Clique nas disciplinas para marcar como concluídas:</p>
+    <ul id="lista-disciplinas"></ul>
+    <p><small>Verde = Liberada, Azul = Concluída, Azul escuro = Ambas</small></p>
+  </div>
+  <script src="scripts.js"></script>
+</body>
+</html>
